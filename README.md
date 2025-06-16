@@ -24,7 +24,7 @@ This Excel workbook automates performance tracking across multiple projects usin
 Work-in-progress 🚧
 
 ## Author
-Built independently by [Your Name], intended to demonstrate data analysis and reporting automation skills in Excel.
+Built independently by Rahul, intended to demonstrate data analysis and reporting automation skills in Excel.
 
 ## How to Use
 - Open `Waterfall_LivePlan_Corrected.xlsx`
